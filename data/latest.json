@@ -1,63 +1,73 @@
 {
-  "generated_at_utc": "2026-06-26T14:17:03.754063Z",
-  "source": "tushare+yahoo_fallback",
+  "generated_at_utc": "2026-06-26T14:25:20.193782Z",
+  "source": "yahoo+tushare",
   "trade_date": "2026-06-26",
   "items": {
     "上证": {
-      "close": 4027.2648,
+      "close": 4027.2649,
       "pct": -2.26,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "深成指": {
       "close": 15782.2227,
       "pct": -3.44,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "创业板": {
-      "error": "tushare+yahoo both failed: empty or insufficient data"
+      "error": "yahoo+tushare both failed: 抱歉，您访问接口(index_daily)频率超限(1次/小时)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
     },
     "科创50": {
-      "error": "tushare+yahoo both failed: empty or insufficient data"
+      "error": "yahoo+tushare both failed: 抱歉，您访问接口(index_daily)频率超限(1次/小时)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
     },
     "沪深300": {
       "close": 4868.2207,
       "pct": -1.48,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "红利低波 512890": {
       "close": 1.081,
       "pct": -0.46,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "电力ETF 159611": {
       "close": 1.032,
       "pct": -0.96,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "半导体ETF 512480": {
       "close": 2.747,
       "pct": -0.97,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "通信ETF 515880": {
       "close": 1.757,
       "pct": -6.69,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "科创50ETF 588000": {
       "close": 2.133,
       "pct": -2.07,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "A500ETF 159338": {
       "close": 1.309,
       "pct": -3.04,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     },
     "国航 601111": {
       "close": 6.37,
       "pct": -2.6,
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "src": "yahoo"
     }
   }
 }
