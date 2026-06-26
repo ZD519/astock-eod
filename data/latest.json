@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-26T13:41:31.554477Z",
-  "source": "yahoo",
+  "generated_at_utc": "2026-06-26T14:09:59.946712Z",
+  "source": "tushare+yahoo_fallback",
   "trade_date": "2026-06-26",
   "items": {
     "上证": {
@@ -14,10 +14,10 @@
       "date": "2026-06-26"
     },
     "创业板": {
-      "error": "RuntimeError: empty or insufficient data"
+      "error": "tushare+yahoo both failed: empty or insufficient data"
     },
     "科创50": {
-      "error": "RuntimeError: empty or insufficient data"
+      "error": "tushare+yahoo both failed: empty or insufficient data"
     },
     "沪深300": {
       "close": 4868.2207,
@@ -47,6 +47,11 @@
     "科创50ETF 588000": {
       "close": 2.133,
       "pct": -2.07,
+      "date": "2026-06-26"
+    },
+    "A500ETF 159338": {
+      "close": 1.309,
+      "pct": -3.04,
       "date": "2026-06-26"
     },
     "国航 601111": {
