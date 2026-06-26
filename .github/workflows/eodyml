@@ -1,0 +1,24 @@
+name: A-share EOD
+on:
+  schedule:
+    - cron: '20 10 * * 1-5'   # 10:20 UTC = 北京18:20, 周一~周五(收盘已结算)
+  workflow_dispatch: {}        # ← 手动"Run workflow"按钮, 现在就能点着测试
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install akshare pandas
+      - run: python fetch_eod.py
+      - name: commit data
+        run: |
+          git config user.name  "eod-bot"
+          git config user.email "eod-bot@users.noreply.github.com"
+          git add data/
+          git commit -m "EOD ${{ github.run_id }}" || echo "no changes"
+          git push
