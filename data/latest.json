@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-06-26T14:09:59.946712Z",
+  "generated_at_utc": "2026-06-26T14:17:03.754063Z",
   "source": "tushare+yahoo_fallback",
   "trade_date": "2026-06-26",
   "items": {
     "上证": {
-      "close": 4027.2649,
+      "close": 4027.2648,
       "pct": -2.26,
       "date": "2026-06-26"
     },
