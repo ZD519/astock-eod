@@ -1,0 +1,40 @@
+{
+  "generated_at_utc": "2026-06-26T13:26:12.979456Z",
+  "source": "akshare",
+  "trade_date": null,
+  "items": {
+    "上证": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "深成指": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "创业板": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "科创50": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "沪深300": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "红利低波 512890": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "电力ETF 159611": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "半导体ETF 512480": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "通信ETF 515880": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "科创50ETF 588000": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    "国航 601111": {
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  }
+}
