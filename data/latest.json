@@ -1,40 +1,58 @@
 {
-  "generated_at_utc": "2026-06-26T13:26:12.979456Z",
-  "source": "akshare",
-  "trade_date": null,
+  "generated_at_utc": "2026-06-26T13:41:31.554477Z",
+  "source": "yahoo",
+  "trade_date": "2026-06-26",
   "items": {
     "上证": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 4027.2649,
+      "pct": -2.26,
+      "date": "2026-06-26"
     },
     "深成指": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 15782.2227,
+      "pct": -3.44,
+      "date": "2026-06-26"
     },
     "创业板": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "error": "RuntimeError: empty or insufficient data"
     },
     "科创50": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "error": "RuntimeError: empty or insufficient data"
     },
     "沪深300": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 4868.2207,
+      "pct": -1.48,
+      "date": "2026-06-26"
     },
     "红利低波 512890": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 1.081,
+      "pct": -0.46,
+      "date": "2026-06-26"
     },
     "电力ETF 159611": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 1.032,
+      "pct": -0.96,
+      "date": "2026-06-26"
     },
     "半导体ETF 512480": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 2.747,
+      "pct": -0.97,
+      "date": "2026-06-26"
     },
     "通信ETF 515880": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 1.757,
+      "pct": -6.69,
+      "date": "2026-06-26"
     },
     "科创50ETF 588000": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 2.133,
+      "pct": -2.07,
+      "date": "2026-06-26"
     },
     "国航 601111": {
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "close": 6.37,
+      "pct": -2.6,
+      "date": "2026-06-26"
     }
   }
 }
