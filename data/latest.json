@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-09-24T15:14:04.307412Z",
+  "generated_at_utc": "2026-09-25T15:19:52.808595Z",
   "source": "yahoo+tushare",
   "trade_date": "2026-09-24",
   "items": {
     "上证": {
-      "close": 3888.3738,
+      "close": 3888.374,
       "pct": -1.22,
       "date": "2026-09-24",
       "src": "yahoo",
@@ -13,7 +13,7 @@
       "pct_src": "archive(2026-09-23)"
     },
     "深成指": {
-      "close": 13316.9688,
+      "close": 13316.9697,
       "pct": -2.34,
       "date": "2026-09-24",
       "src": "yahoo",
@@ -49,8 +49,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "红利低波 512890": {
-      "close": 1.185,
-      "pct": 0.25,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 1.182,
@@ -58,8 +58,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "电力ETF 159611": {
-      "close": 1.024,
-      "pct": 0.0,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 1.024,
@@ -67,8 +67,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "半导体ETF 512480": {
-      "close": 1.023,
-      "pct": -2.66,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 1.051,
@@ -76,8 +76,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "通信ETF 515880": {
-      "close": 0.679,
-      "pct": -3.14,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 0.701,
@@ -85,8 +85,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "科创50ETF 588000": {
-      "close": 1.713,
-      "pct": -2.39,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 1.755,
@@ -94,8 +94,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "A500ETF 159338": {
-      "close": 1.177,
-      "pct": -1.75,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 1.198,
@@ -103,8 +103,8 @@
       "pct_src": "archive(2026-09-23)"
     },
     "创业板ETF 159915": {
-      "close": 3.312,
-      "pct": -2.56,
+      "close": NaN,
+      "pct": NaN,
       "date": "2026-09-24",
       "src": "yahoo",
       "prev_close": 3.399,
