@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-09-30T16:26:11.849795Z",
+  "generated_at_utc": "2026-10-01T17:03:19.537627Z",
   "source": "yahoo+tushare",
   "trade_date": "2026-09-30",
   "items": {
     "上证": {
-      "close": NaN,
+      "close": 3842.1951,
       "pct": NaN,
       "date": "2026-09-30",
       "src": "yahoo",
@@ -13,7 +13,7 @@
       "pct_src": "archive(2026-09-29)"
     },
     "深成指": {
-      "close": NaN,
+      "close": 12887.6201,
       "pct": NaN,
       "date": "2026-09-30",
       "src": "yahoo",
@@ -112,7 +112,7 @@
       "pct_src": "archive(2026-09-29)"
     },
     "国航 601111": {
-      "close": NaN,
+      "close": 5.91,
       "pct": NaN,
       "date": "2026-09-30",
       "src": "yahoo",
