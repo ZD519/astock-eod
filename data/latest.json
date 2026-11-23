@@ -1,124 +1,124 @@
 {
-  "generated_at_utc": "2026-11-20T18:38:58.078008Z",
+  "generated_at_utc": "2026-11-23T22:05:03.916733Z",
   "source": "yahoo+tushare",
-  "trade_date": "2026-11-20",
+  "trade_date": "2026-11-23",
   "items": {
     "上证": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "深成指": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "创业板": {
-      "close": 2212.1274,
-      "pct": -3.54,
-      "date": "2026-11-20",
+      "close": 2280.2043,
+      "pct": 3.08,
+      "date": "2026-11-23",
       "src": "yahoo",
-      "prev_close": 2293.3416,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_close": 2212.1274,
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "科创50": {
-      "close": 1231.089,
-      "pct": -3.12,
-      "date": "2026-11-20",
+      "close": 1227.8856,
+      "pct": -0.26,
+      "date": "2026-11-23",
       "src": "yahoo",
-      "prev_close": 1270.7833,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_close": 1231.089,
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "沪深300": {
-      "close": 3954.5649,
-      "pct": -0.76,
-      "date": "2026-11-20",
+      "close": 3958.2937,
+      "pct": 0.09,
+      "date": "2026-11-23",
       "src": "yahoo",
-      "prev_close": 3984.8398,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_close": 3954.5649,
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "红利低波 512890": {
-      "close": NaN,
+      "close": 1.2596,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "电力ETF 159611": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "半导体ETF 512480": {
-      "close": NaN,
+      "close": 0.7476,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "通信ETF 515880": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "科创50ETF 588000": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "A500ETF 159338": {
-      "close": NaN,
+      "close": 1.0122,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "创业板ETF 159915": {
       "close": NaN,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     },
     "国航 601111": {
-      "close": NaN,
+      "close": 6.18,
       "pct": NaN,
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "src": "yahoo",
       "prev_close": NaN,
-      "prev_date": "2026-11-19",
-      "pct_src": "archive(2026-11-19)"
+      "prev_date": "2026-11-20",
+      "pct_src": "archive(2026-11-20)"
     }
   }
 }
